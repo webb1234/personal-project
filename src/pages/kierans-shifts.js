@@ -1,4 +1,4 @@
-// This is a page shared with friends and family so they can see when I'm working, doing something (events), or am available.
+// This is a page shared with friends and family so they can see when I'm working, doing something (events), or am available. Requires an authCode to access.
 
 import dataManager from 'wix-data';
 import {memory} from 'wix-storage';
