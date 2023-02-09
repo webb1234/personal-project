@@ -1,3 +1,5 @@
+// Shows all pay dates for a specific bill, this can be accessed by pressing "View All Payments" on the Home page.
+
 import dataManager from 'wix-data';
 import pageManager from 'wix-window';
 
