@@ -1,3 +1,5 @@
+// Linked with backend code which deposits and withdraws money to different pots in my bank account.
+
 import pageManager from 'wix-location';
 import {transact} from 'backend/FCPotFetch';
 import {memory} from 'wix-storage';
