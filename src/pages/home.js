@@ -1,3 +1,5 @@
+// Master page, only Kieran has access to it.
+
 import dataManager from 'wix-data';
 import pageManager from 'wix-window';
 import wixLocation from 'wix-location';
