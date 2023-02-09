@@ -1,3 +1,5 @@
+// Allows me to add events and reminders to my schedule, or modify/delete existing ones.
+
 import dataManager from 'wix-data';
 import pageManager from 'wix-window';
 import {memory} from 'wix-storage';
